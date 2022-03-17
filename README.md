@@ -17,12 +17,13 @@ A back-end application for an E-Commerce site that interacts with a database.
 Run “npm install” in the terminal after cloning Github repository.
 
 ## Usage
-To use this app, type the following in the terminal:
+To use this app, type the following in the terminal via the server.js file:
 
 **npm run seed**
 
-**node server.js**
-#### [Full video here]()
+**npm start**
+#### [Full video here](https://user-images.githubusercontent.com/93589073/158731013-3a15e013-36cf-4d32-b2e9-b46458d25f3b.mp4)
+![Screenshot img](https://user-images.githubusercontent.com/93589073/158730331-6c2d7cd9-4bcc-494a-80b1-cfa558e7d85e.png)
 
 ## Contribution
 Please feel free to contribute in any way by forking the repo and creating a pull request.
