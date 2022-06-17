@@ -14,14 +14,20 @@ A back-end application for an E-Commerce site that interacts with a database.
   - [Questions](#questions)
 
 ## Installation
-Run “npm install” in the terminal after cloning Github repository.
+Clone the Github repository:<br>
+`https://github.com/LizMackle/E-Commerce_Back-End.git`
+
+Install all dependencies required for application:<br>
+`npm install` from the root directory.
 
 ## Usage
 To use this app, type the following in the terminal via the server.js file:
 
-**npm run seed**
+Seed the database<br>
+`npm run seed`
 
-**npm start**
+Start the server<br>
+`npm start`
 #### [Full video here](https://user-images.githubusercontent.com/93589073/158731013-3a15e013-36cf-4d32-b2e9-b46458d25f3b.mp4)
 ![Screenshot img smaller](https://user-images.githubusercontent.com/93589073/158732472-43bac9ba-b747-4caa-92f8-e84c4f8c53a3.jpg)
 
